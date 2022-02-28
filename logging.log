@@ -1,0 +1,55 @@
+2022-02-23 22:53:42,892 :INFO :Baseclass :The value typed isDeepak
+2022-02-23 22:53:44,121 :INFO :Baseclass :The value typed isAkshay
+2022-02-23 22:53:44,121 :INFO :Baseclass :The value typed isAkshay
+2022-02-23 22:56:29,356 :INFO :Baseclass :First nameDeepak
+2022-02-23 22:56:29,424 :INFO :Baseclass :The value typed isDeepak
+2022-02-23 22:56:30,610 :INFO :Baseclass :First nameAkshay
+2022-02-23 22:56:30,610 :INFO :Baseclass :First nameAkshay
+2022-02-23 22:56:30,666 :INFO :Baseclass :The value typed isAkshay
+2022-02-23 22:56:30,666 :INFO :Baseclass :The value typed isAkshay
+2022-02-23 23:01:21,443 :INFO :test_automation :First nameDeepak
+2022-02-23 23:01:21,518 :INFO :test_automation :The value typed isDeepak
+2022-02-23 23:01:23,067 :INFO :test_automation :First nameAkshay
+2022-02-23 23:01:23,067 :INFO :test_automation :First nameAkshay
+2022-02-23 23:01:23,135 :INFO :test_automation :The value typed isAkshay
+2022-02-23 23:01:23,135 :INFO :test_automation :The value typed isAkshay
+2022-02-23 23:03:14,811 :INFO :test_automation :First nameDeepak
+2022-02-23 23:03:14,882 :ERROR :test_automation :The value typed isDeepak
+2022-02-23 23:03:16,137 :INFO :test_automation :First nameAkshay
+2022-02-23 23:03:16,137 :INFO :test_automation :First nameAkshay
+2022-02-23 23:03:16,201 :ERROR :test_automation :The value typed isAkshay
+2022-02-23 23:03:16,201 :ERROR :test_automation :The value typed isAkshay
+2022-02-23 23:23:28,974 :INFO :test_automation :First nameDeepak
+2022-02-23 23:23:29,043 :ERROR :test_automation :The value typed isDeepak
+2022-02-23 23:23:30,418 :INFO :test_automation :First nameAkshay
+2022-02-23 23:23:30,418 :INFO :test_automation :First nameAkshay
+2022-02-23 23:23:30,486 :ERROR :test_automation :The value typed isAkshay
+2022-02-23 23:23:30,486 :ERROR :test_automation :The value typed isAkshay
+2022-02-23 23:38:45,499 :INFO :test_automation :First nameDeepak
+2022-02-23 23:38:45,572 :ERROR :test_automation :The value typed isDeepak
+2022-02-23 23:38:46,937 :INFO :test_automation :First nameAkshay
+2022-02-23 23:38:46,937 :INFO :test_automation :First nameAkshay
+2022-02-23 23:38:46,997 :ERROR :test_automation :The value typed isAkshay
+2022-02-23 23:38:46,997 :ERROR :test_automation :The value typed isAkshay
+2022-02-23 23:40:20,310 :INFO :test_automation :First nameDeepak
+2022-02-23 23:40:20,420 :ERROR :test_automation :The value typed isDeepak
+2022-02-23 23:40:21,898 :INFO :test_automation :First nameAkshay
+2022-02-23 23:40:21,898 :INFO :test_automation :First nameAkshay
+2022-02-23 23:40:21,968 :ERROR :test_automation :The value typed isAkshay
+2022-02-23 23:40:21,968 :ERROR :test_automation :The value typed isAkshay
+2022-02-24 12:20:17,523 :INFO :test_automation :First nameDeepak
+2022-02-24 12:20:17,664 :ERROR :test_automation :The value typed isDeepak
+2022-02-24 12:20:29,940 :INFO :test_automation :First nameAkshay
+2022-02-24 12:20:29,940 :INFO :test_automation :First nameAkshay
+2022-02-24 12:20:30,034 :ERROR :test_automation :The value typed isAkshay
+2022-02-24 12:20:30,034 :ERROR :test_automation :The value typed isAkshay
+2022-02-24 13:29:37,961 :INFO :test_automation :First nameDeepak
+2022-02-24 13:29:38,033 :ERROR :test_automation :The value typed isDeepak
+2022-02-24 13:29:50,251 :INFO :test_automation :First nameAkshay
+2022-02-24 13:29:50,251 :INFO :test_automation :First nameAkshay
+2022-02-24 13:29:50,363 :ERROR :test_automation :The value typed isAkshay
+2022-02-24 13:29:50,363 :ERROR :test_automation :The value typed isAkshay
+2022-02-25 11:16:07,555 :INFO :test_automation :First namec
+2022-02-25 11:16:07,714 :ERROR :test_automation :The value typed isc
+2022-02-26 02:02:20,805 :INFO :test_automation :First nameDeepak
+2022-02-26 02:02:21,023 :ERROR :test_automation :The value typed isDeepak

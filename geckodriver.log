@@ -1,0 +1,13 @@
+1644911639502	geckodriver	INFO	Listening on 127.0.0.1:53714
+1644911642561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53715" "-no-remote" "-profile" "C:\\Users\\degahlot\\AppData\\Local\\Temp\\rust_mozprofileVoJ8Jo"
+1644911643154	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\degahlot\\AppData\\Local\\Temp\\rust_mozprofileVoJ8Jo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53715/devtools/browser/cf0c78c1-7b74-45cf-9c81-1f4a1efc2126
+1644911645375	Marionette	INFO	Listening on port 53721
+1644911645767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1644911689493	Marionette	INFO	Stopped listening on port 53721
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
