@@ -53,3 +53,15 @@
 2022-02-25 11:16:07,714 :ERROR :test_automation :The value typed isc
 2022-02-26 02:02:20,805 :INFO :test_automation :First nameDeepak
 2022-02-26 02:02:21,023 :ERROR :test_automation :The value typed isDeepak
+2022-03-02 23:29:11,669 :INFO :test_php :Deepak
+2022-03-02 23:29:11,810 :INFO :test_php :Deepak.147392
+2022-03-02 23:29:12,331 :INFO :test_php :message after submit is×
+Success! The Form has been submitted successfully!.
+2022-03-02 23:29:12,624 :INFO :test_php :Akshay
+2022-03-02 23:29:12,624 :INFO :test_php :Akshay
+2022-03-02 23:29:12,755 :INFO :test_php :xyz
+2022-03-02 23:29:12,755 :INFO :test_php :xyz
+2022-03-02 23:29:13,363 :INFO :test_php :message after submit is×
+Success! The Form has been submitted successfully!.
+2022-03-02 23:29:13,363 :INFO :test_php :message after submit is×
+Success! The Form has been submitted successfully!.
